@@ -123,8 +123,11 @@ body {
     margin-bottom: 30px;
     flex-basis: 30%;
     text-decoration: none;
-    color: #302C34;
+    font-style: normal;
     font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #000000;
 }
 .card-image {
     width: 384px;
